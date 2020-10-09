@@ -9,7 +9,7 @@ $cd learning
 <br>
 $ls
 <br>
-      🌱 I’m currently learning Java
+"      "+🌱 I’m currently learning Java
   <br>
 $cd "coding_projects"
 <br>
