@@ -38,3 +38,5 @@
 `-----------------------------'
 
 </pre>
+<br>
+![komputer.gif](komputer.gif)
