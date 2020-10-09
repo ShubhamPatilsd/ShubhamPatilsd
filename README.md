@@ -39,4 +39,4 @@
 
 </pre>
 <br>
-![komputer.gif](komputer.gif)
+![computer gif](komputer.gif)
