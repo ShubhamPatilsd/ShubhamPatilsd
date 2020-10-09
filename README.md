@@ -38,6 +38,6 @@
 `-----------------------------'
 
 </pre>
-![computer gif](komputer.gif)
+Image can be found on Ascii Art Archive
 <br>
 
