@@ -9,11 +9,11 @@ $cd learning
 <br>
 $ls
 <br>
-"      "+🌱 I’m currently learning Java
+🌱 I’m currently learning Java
   <br>
 $cd "coding_projects"
 <br>
-      👨‍💻 My coding projects are available on GitHub [https://github.com/ShubhamPatilsd?tab=repositories](https://github.com/ShubhamPatilsd?tab=repositories)
+    <p>    👨‍💻 My coding projects are available on GitHub</p>[https://github.com/ShubhamPatilsd?tab=repositories](https://github.com/ShubhamPatilsd?tab=repositories)
   <br>
 
 <h3 align="left">Languages and Tools:</h3>
