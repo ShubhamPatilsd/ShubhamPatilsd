@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm ShubhamPatilsd</h1>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">Human Learning Programming and Computer Science</h3>
 
 > 🌱 I’m currently learning Java
