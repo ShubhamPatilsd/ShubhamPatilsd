@@ -6,7 +6,9 @@
 <h1 align="center">Hi 👋, I'm ShubhamPatilsd</h1>
 <h3 align="center">Human Learning Programming and Computer Science</h3>
 $cd learning
+<br>
 $ls
+<br>
   🌱 I’m currently learning Java
 $cd "coding_projects"
   👨‍💻 My coding projects are available on GitHub [https://github.com/ShubhamPatilsd?tab=repositories](https://github.com/ShubhamPatilsd?tab=repositories)
