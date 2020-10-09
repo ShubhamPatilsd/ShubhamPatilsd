@@ -1,6 +1,6 @@
 
 
-
+![computer gif](http://bestanimations.com/Computers/funny-computer-animated-gif-30.gif)
 <h1 align="center">Hi 👋, I'm ShubhamPatilsd</h1>
 <h3 align="center">Human Learning Programming and Computer Science</h3>
 
@@ -39,4 +39,4 @@
 
 </pre>
 <br>
-![computer gif](http://bestanimations.com/Computers/funny-computer-animated-gif-30.gif)
+
