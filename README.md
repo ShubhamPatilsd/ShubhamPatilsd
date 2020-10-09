@@ -1,6 +1,6 @@
 
 
-![computer gif](http://bestanimations.com/Computers/funny-computer-animated-gif-30.gif)
+
 <h1 align="center">Hi 👋, I'm ShubhamPatilsd</h1>
 <h3 align="center">Human Learning Programming and Computer Science</h3>
 
@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhampatilsd&show_icons=true" alt="shubhampatilsd" /></p>
 
 
-
+![computer gif](komputer.gif)
 <pre>
               ,----------------,             ,---------,
         ,-----------------------,          ,"        ,"|
