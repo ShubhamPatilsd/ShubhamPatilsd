@@ -15,6 +15,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhampatilsd&show_icons=true" alt="shubhampatilsd" /></p>
 
+![Visitor Count](https://profile-counter.glitch.me/{shubhampatilsd}/count.svg)
+
 <pre>
              ,----------------,              ,---------,
         ,-----------------------,          ,"        ,"|
