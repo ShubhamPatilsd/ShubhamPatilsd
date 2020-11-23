@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm ShubhamPatilsd</h1>
 <h3 align="center">Human Learning Programming and Computer Science</h3>
 
-> 🌱 I am currently learning Java <br>
+> 🌱 I’m currently learning Java
+
 > 👨‍💻 My coding projects are available on GitHub [https://github.com/ShubhamPatilsd?tab=repositories](https://github.com/ShubhamPatilsd?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
