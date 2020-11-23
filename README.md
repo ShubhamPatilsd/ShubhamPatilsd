@@ -38,6 +38,6 @@
 `-----------------------------'
 
 </pre>
-Image can be found on Ascii Art Archive
+Image can be found on Ascii Art Archive (with a couple tweaks from me)
 <br>
 
