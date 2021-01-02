@@ -7,7 +7,7 @@
 
 > 👨‍💻 My coding projects are available on GitHub [https://github.com/ShubhamPatilsd?tab=repositories](https://github.com/ShubhamPatilsd?tab=repositories)
 
-
+<h4 align="left">This page needs GitHub Light Mode to function properly<h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/14508882" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14508882" height="30" width="40" /></a>
