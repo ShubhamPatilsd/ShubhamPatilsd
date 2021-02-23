@@ -1,0 +1,2 @@
+- name: profile_stack
+  uses: Matt-Gleich/profile_stack@v1.4.1
