@@ -1,7 +1,7 @@
 - name: Java
   logo: java
   url: https://www.java.com/en/
-  color: 52C0F2
+  color: ffa500
   projects:
     - https://github.com/ShubhamPatilsd/space-catch
     - https://github.com/ShubhamPatilsd/Cyber-Wizards-FTC-Robotics-Ultimate-Goal-2020
