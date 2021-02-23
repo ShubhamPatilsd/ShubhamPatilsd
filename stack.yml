@@ -1,17 +1,12 @@
-- name: Dart
-  logo: dart
-  url: https://dart.dev/
+- name: Java
+  logo: java
+  url: https://www.java.com/en/
   color: 52C0F2
   projects:
-    - https://github.com/fluttercommunity/import_sorter
-    - https://github.com/Matt-Gleich/Personal-Site
-    - url: https://github.com/Matt-Gleich/auralite-mobile
-      wip: true
-- name: Flutter
-  logo: flutter
-  url: https://flutter.dev/
-  color: 52C0F2
-  projects:
-    - https://github.com/Matt-Gleich/Personal-Site
-    - url: https://github.com/Matt-Gleich/auralite-mobile
-      wip: true
+    - https://github.com/ShubhamPatilsd/space-catch
+    - https://github.com/ShubhamPatilsd/Cyber-Wizards-FTC-Robotics-Ultimate-Goal-2020
+    - https://github.com/ShubhamPatilsd/simple-pad
+    - https://github.com/Matt-Gleich/auralite-mobile
+    - https://github.com/ShubhamPatilsd/NetworkScannerRickRoll
+    - https://github.com/ShubhamPatilsd/UpperLowerCaseTextMaker
+ 
