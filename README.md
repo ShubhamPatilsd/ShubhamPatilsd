@@ -8,7 +8,6 @@
 
 <ul>
   <li>👨‍💻 My coding projects are available on GitHub [https://github.com/ShubhamPatilsd?tab=repositories](https://github.com/ShubhamPatilsd?tab=repositories)</li>
-  <li>👨‍💻 My coding projects are available on GitHub [https://github.com/ShubhamPatilsd?tab=repositories](https://github.com/ShubhamPatilsd?tab=repositories)</li>
 </ul>
 
 
