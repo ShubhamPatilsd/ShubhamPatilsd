@@ -12,7 +12,8 @@
 <p>Hello there! I’m Shubham Patil. I’m currently a high schooler studying computer science. I’m also working to increase my skills so that I can build amazing things. I value the efficiency and scalability of code, so I absolutely love automation of codebases. An example of this would be storing data in JSON files or fetching data from an API/database instead of directly hardcoding the values into the code. I mainly enjoy programming because it’s fun and it enables me to build awe-inspiring projects. Coding also drives me to learn new things and technologies, which I enjoy. I love the concept of open-source code, so all the major projects I’ve worked on are hosted on GitHub. Besides coding, I enjoy watching movies and videos regarding technology in my free time. I don't have a favorite food per say as I enjoy many types of cuisines. I hope you have a good time exploring my GitHub profile page and I wish you a very good day!</p>
 
 <ul>
-  <li> You can find my website @https://shubhampatil.dev
+  <li> You can find my website @https://shubhampatil.dev</li>
+  <li>Checkout my blog at <a href="https://shubhampatilsd.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium"/></li>
   <li>👨‍💻 My coding projects are available on <a href="https://github.com/ShubhamPatilsd?tab=repositories" target="_blank" rel="noreferrer">GitHub</a></li>
 </ul>
 
