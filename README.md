@@ -13,7 +13,7 @@
 
 <ul>
   <li> You can find my website @https://shubhampatil.dev</li>
-  <li>Checkout my blog at <a href="https://shubhampatilsd.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium"/></li>
+  <li>Checkout my blog at <a href="https://dev.to/shubhampatilsd" target="blank"><img src="https://img.shields.io/badge/Dev.to-grey?style=for-the-badge&logo=dev.to"/></li>
   <li>👨‍💻 My coding projects are available on <a href="https://github.com/ShubhamPatilsd?tab=repositories" target="_blank" rel="noreferrer">GitHub</a></li>
 </ul>
 
