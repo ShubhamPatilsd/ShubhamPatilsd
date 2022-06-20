@@ -1,6 +1,6 @@
 # Hi, I'm Shubham Patil 👨‍💻
 
-I'm currently a high school student (which takes away _too_ much time), and I like to code as a fullstack web developer ("making the next unicorn 🦄 startup | ycombinator batch of S42 | to the moon 🚀 | backed my twenty venture capitalists | based in silicon valley" ™) in my free time.
+I'm currently a high school student (which takes away _too_ much time), and I like to code as a fullstack web developer ("making the next unicorn 🦄 startup | ycombinator batch of S42 | to the moon 🚀 | backed by twenty venture capitalists | based in silicon valley" ™) in my free time.
 
 (_if you haven't realized by now, the startup thing is satire. there's no way i can make a unicorn, they don't exist!_)
 
