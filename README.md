@@ -9,7 +9,7 @@ Here are some of the things I have:
 - [A YouTube channel](https://www.youtube.com/channel/UCExbrmSa1r97Q3AUNvkpdnQ) (I only posted here once)
 
 
-Favorite Tools:
+<!-- Favorite Tools:
 - Editor: VSCode 
 - Operating System: Linux 🐧
 - Keyboard: Keychron K2 (the switches go thock thock thock without any modifications which is cool)
@@ -22,9 +22,9 @@ Favorite Tools:
 - Backend 👨‍🔧
     - Node.js
     - Express
-    - Prisma
+    - Prisma -->
 
-Here is a cool isometric GitHub contribution graph with Lego bricks that makes me want to get a Lego set again
+<br><br><br><br><br>
+<img src="profile-3d-contrib/profile-gitblock.svg" align="center"/>
 
-![github contribution graph](profile-3d-contrib/profile-gitblock.svg)
-
+Ooh Lego bricks
