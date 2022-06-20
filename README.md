@@ -2,11 +2,11 @@ Hi, I'm Shubham Patil. I'm currently a student (which takes away _too_ much time
 
 Here are some of the things I have:
 
-- A [website](https://shubhampatil.dev) (you can literally find most of this information there)
-- A [blog](https://dev.to/shubhampatilsd/)
-- A [Twitter thing](https://twitter.com/ShubhamPatilsd)
-- A [LinkedIn](https://www.linkedin.com/in/shubham-patil-5352a3215/)
-- A [YouTube channel](https://www.youtube.com/channel/UCExbrmSa1r97Q3AUNvkpdnQ) (I only posted here once)
+- [A website](https://shubhampatil.dev) (you can literally find most of this information there)
+- [A blog](https://dev.to/shubhampatilsd/)
+- [A Twitter thing](https://twitter.com/ShubhamPatilsd)
+- [A LinkedIn](https://www.linkedin.com/in/shubham-patil-5352a3215/)
+- [A YouTube channel](https://www.youtube.com/channel/UCExbrmSa1r97Q3AUNvkpdnQ) (I only posted here once)
 
 
 Favorite Tools:
@@ -24,5 +24,7 @@ Favorite Tools:
     - Express
     - Prisma
 
+Here is a cool isometric GitHub contribution graph with Lego bricks that makes me want to get a Lego set again
 
+![github contribution graph](profile-3d-contrib/profile-gitblock.svg)
 
