@@ -1,4 +1,12 @@
-Hi, I'm Shubham Patil. I'm currently a student (which takes away _too_ much time), and I like to do fullstack development with mainly web technologies. I use a lot of Javascript and Typescript (I don't know if this is necessarily good or not).
+# Hi, I'm Shubham Patil 👨‍💻
+
+I'm currently a high school student (which takes away _too_ much time), and I like to code as a fullstack web developer ("making the next unicorn 🦄 startup | ycombinator batch of S42 | to the moon 🚀 | backed my twenty venture capitalists | based in silicon valley" ™) in my free time.
+
+(_if you haven't realized by now, the startup thing is satire. there's no way i can make a unicorn, they don't exist!_)
+
+I use a lot of Javascript and Typescript (I don't know if this is necessarily good or not). TailwindCSS is a great library. I mainly use Python for automation scripts :)  
+
+Fun fact: My first plane ride was when I was 4 months old 🛫
 
 Here are some of the things I have:
 
@@ -23,8 +31,8 @@ Here are some of the things I have:
     - Node.js
     - Express
     - Prisma -->
-
+<!-- 
 <br><br><br><br><br>
 <img src="profile-3d-contrib/profile-gitblock.svg" align="center"/>
 
-Ooh Lego bricks
+Ooh Lego bricks -->
