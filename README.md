@@ -2,7 +2,6 @@
 
 I'm currently a high school student (which takes away _too_ much time), and I like to code as a fullstack web developer ("making the next unicorn 🦄 startup | ycombinator batch of S42 | to the moon 🚀 | backed by twenty venture capitalists | based in silicon valley" ™) in my free time.
 
-(_if you haven't realized by now, the startup thing is satire. there's no way i can make a unicorn, they don't exist!_)
 
 I use a lot of Javascript and Typescript (I don't know if this is necessarily good or not). TailwindCSS is a great library. I mainly use Python for automation scripts :)  
 
