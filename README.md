@@ -1,9 +1,7 @@
 hey! i'm shubham patil 👋
 
-from the first time i touched the run button in my ide, programming has changed my life forever, opening the door to so many creative avenues and allowing me to accomplish my dreams. i've built various fullstack apps before, many of which you can find on my website.
+from the first time i touched the run button in my ide, programming has changed my life forever, opening the door to so many creative avenues and allowing me to accomplish my dreams. i've built various projects (useful and for fun), many of which you can find on my website.
 
-Here are some of my socials:
-- [Website](https://shubhampatil.dev)
-- [Blog](https://dev.to/shubhampatilsd/)
-- [Twitter](https://twitter.com/ShubhamPatilsd)
-- [LinkedIn](https://www.linkedin.com/in/shubham-patil-5352a3215/)
+- [website](https://shubhampatil.dev)
+- [twitter](https://twitter.com/ShubhamPatilsd)
+- [linkedin](https://www.linkedin.com/in/shubham-patil-5352a3215/)
